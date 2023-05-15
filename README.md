@@ -1,4 +1,5 @@
-# LangChainReadPDF
+# Langchain Read PDF
+Use langchain and OpenAI API to ask questions to you pdf
 ## Create virtual environment in VS code
 
 ```
