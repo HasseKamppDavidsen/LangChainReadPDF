@@ -1,9 +1,9 @@
 # LangChainReadPDF
 ## Create virtual environment in VS code
 
-'''
+```
 python -venv venv
-'''
+```
 
 ## Install required packages
 
